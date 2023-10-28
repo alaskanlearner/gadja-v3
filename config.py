@@ -23,7 +23,7 @@ API_HASH = os.environ.get("API_HASH", "be763dd48bcd9bc636ad1e6af9791e57")
 CHANNEL_DB = int(os.environ.get("CHANNEL_DB", "-1001982790539"))
 
 # Database
-DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://tyabtjme:OsKGAGtt46xRtRGg3W1cXfc9RXjPaSCI@rosie.db.elephantsql.com/tyabtjme")
+DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://hzyudzqo:JwdE0BBITUMlvEfKuAI0hFeuFLSZD3Qf@rain.db.elephantsql.com/hzyudzqo")
 
 # NAMA OWNER
 OWNER = os.environ.get("OWNER", "masgacoresmi")
